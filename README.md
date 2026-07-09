@@ -136,8 +136,6 @@ Healthcare Platform
 <img src="https://raw.githubusercontent.com/Nirjal0007/Nirjal0007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> **Note:** The snake animation will only appear after you configure the GitHub Action that generates it.
-
 ---
 
 # 🎯 2026 Goals
