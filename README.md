@@ -96,9 +96,11 @@ Healthcare Platform
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-<!-- Paste your tech badges here -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css,react,laravel,flask,bootstrap,tailwind,mysql,sqlite,git,github,postman,figma,vscode,tensorflow,pytorch&perline=11" />
+</p>
 
 ---
 
