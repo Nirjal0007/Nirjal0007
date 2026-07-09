@@ -1,39 +1,161 @@
-# 👋 Hi, I'm Nirjal Acharya
+<h1 align="center">Hi 👋, I'm Nirjal Acharya</h1>
 
-**BIT Student | Full-Stack Developer | AI Enthusiast | Software Engineering Learner**
+<h3 align="center">
+🎓 BIT Student • 💻 Full-Stack Developer • 🤖 AI & Machine Learning Enthusiast • 🇳🇵 Nepal
+</h3>
 
-I'm passionate about building scalable web applications, exploring artificial intelligence, and continuously improving my software engineering skills. I enjoy developing practical solutions to real-world problems and learning modern technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python;JavaScript+%7C+PHP+%7C+HTML+%7C+CSS;Laravel+%7C+React+%7C+Flask;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Software+Solutions" alt="Typing SVG" />
+</p>
 
-- 🔭 **Currently working on:** Laravel-based web applications and AI-powered projects
-- 🌱 **Currently learning:** Machine Learning, RESTful APIs, Cloud Deployment, and System Design
-- 👯 **Open to collaborate on:** Open-source projects, Full-Stack Development, and AI applications
-- 💬 **Ask me about:** Laravel, React, Flask, Python, JavaScript, MySQL, and Git
-- 📫 **Reach me at:** www.linkedin.com/in/nirjal-acharya-996688383
-- ⚡ **Fun fact:** I love transforming ideas into software that makes a real impact.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirjal.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjal-acharya-996688383)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acharyanirjal7@gmail.com) 
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nirjal0007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nirjal0007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nirjal0007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nirjal0007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nirjal0007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nirjal0007&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Nirjal0007?label=Followers&style=flat&color=blue" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nirjal0007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+I'm a **Bachelor of Information Technology (BIT)** student from **Nepal 🇳🇵** with a passion for **Software Engineering, Full-Stack Development, and Artificial Intelligence**.
+
+I enjoy building practical software solutions, exploring emerging technologies, and continuously improving my development skills.
+
+- 🔭 **Currently working on:** Laravel-based Web Applications & AI Projects
+- 🌱 **Currently learning:** Machine Learning, Cloud Computing, DevOps & System Design
+- 👯 **Looking to collaborate on:** Open Source, Full-Stack Development & AI Projects
+- 💬 **Ask me about:** C, C++, Java, Python, JavaScript, PHP, Laravel, React, Flask & MySQL
+- 📫 **Email:** **acharyanirjal7@gmail.com**
+- ⚡ **Fun fact:** I enjoy transforming ideas into real-world software solutions.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nirjal-acharya-996688383">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:acharyanirjal7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/nirjal.7">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏗️ Constructify
+Construction Management System built with Laravel.
+
+**Tech Stack:** Laravel • PHP • MySQL • Bootstrap
+
+**Features**
+- Admin Dashboard
+- Authentication
+- Blog Management
+- Banner Management
+- Responsive UI
+
+---
+
+## 🤖 AI Civic Inspector
+
+National AI Hackathon Project
+
+**Tech Stack:** React • Flask • Python • AI
+
+**Features**
+- AI Image Analysis
+- GPS Location Capture
+- Interactive Map
+- Admin Dashboard
+- Report Management
+
+---
+
+## 🌸 WomenCare
+
+Healthcare Platform
+
+**Tech Stack:** React • Spring Boot • MySQL
+
+**Features**
+- Menstrual Tracker
+- Mood Journal
+- Community Platform
+- Chatbot
+- Authentication
+
+---
+
+# 💻 Tech Stack
+
+<!-- Paste your tech badges here -->
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nirjal0007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjal0007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nirjal0007&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirjal0007&theme=tokyo-night" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nirjal0007/Nirjal0007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+> **Note:** The snake animation will only appear after you configure the GitHub Action that generates it.
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful Full-Stack Applications
+- 🤖 Advance my AI & Machine Learning skills
+- ☁️ Learn Cloud & DevOps
+- 🌍 Contribute to Open Source
+- 💼 Start my career as a Software Engineer
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"*
+
+If you like my work, consider ⭐ starring my repositories.
+
+</div>
