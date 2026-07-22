@@ -50,49 +50,74 @@ I enjoy building practical software solutions, exploring emerging technologies, 
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
-## 🏗️ Constructify
-Construction Management System built with Laravel.
-
-**Tech Stack:** Laravel • PHP • MySQL • Bootstrap
+## 🏗️ BuildFlow
+Construction Company Management System built with Laravel.
 
 **Features**
 - Admin Dashboard
-- Authentication
 - Blog Management
+- Quote Request System
 - Banner Management
-- Responsive UI
+- Service Management
+- AI Blog Generation
+
+**Tech**
+- Laravel
+- Blade
+- Bootstrap
+- MySQL
+
+🔗 Repository:
+https://github.com/Nirjal0007/BuildFlow
 
 ---
 
-## 🤖 AI Civic Inspector
+## 🌸 Woman Care Application
 
-National AI Hackathon Project
-
-**Tech Stack:** React • Flask • Python • AI
+A healthcare application focused on women's wellness.
 
 **Features**
-- AI Image Analysis
-- GPS Location Capture
-- Interactive Map
-- Admin Dashboard
-- Report Management
-
----
-
-## 🌸 WomenCare
-
-Healthcare Platform
-
-**Tech Stack:** React • Spring Boot • MySQL
-
-**Features**
-- Menstrual Tracker
+- Menstrual Cycle Tracking
 - Mood Journal
-- Community Platform
-- Chatbot
-- Authentication
+- Community Feed
+- AI Chatbot
+
+**Tech**
+- React
+- Spring Boot
+- MySQL
+
+🔗 Repository:
+https://github.com/Nirjal0007/Woman-Care-Application
+
+---
+
+## 🏆 National AI Hackathon 2026
+
+Worked as a **Frontend Developer** on an AI-powered civic issue reporting platform.
+
+### My Contributions
+
+- Built responsive interfaces using React & Tailwind CSS
+- Developed Login & Registration pages
+- Implemented report submission workflow
+- Integrated interactive maps with React Leaflet
+- Connected frontend with backend APIs
+- Improved UI responsiveness and user experience
+
+### Technologies
+
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- React Leaflet
+- Flask
+- Google Gemini API
+
+> **Note:** The source code belongs to the Kodedristi-Software organization and is maintained in a private repository.
 
 ---
 
